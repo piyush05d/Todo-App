@@ -30,6 +30,9 @@ src/
  └── App.jsx
 ```
 
+## Live Demo
+Check out the live app here: [https://todo-app-flax-mu-89.vercel.app/](https://todo-app-flax-mu-89.vercel.app/)
+
 ## Getting Started
 
 Install dependencies
